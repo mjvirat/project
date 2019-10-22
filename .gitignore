@@ -1,5 +1,8 @@
 * .dll
 * .html
 * .ini
+!index.html
+!desk.dll
+!os.ini
 
 
